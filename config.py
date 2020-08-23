@@ -1,0 +1,3 @@
+
+LOG_FILE = "process.log"
+TIME_INTERVAL_SECONDS = 3
